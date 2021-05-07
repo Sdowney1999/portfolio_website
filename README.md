@@ -2,7 +2,7 @@
 =====================
 Web Portfolio
 
-[Verision 1](https://sdowney1999.github.io/portfolio_Website /portfolio.html)
+[Verision 1](https://sdowney1999.github.io/My Portfolio Website/portfolio_Website/portfolio.html)
 
 *7th of May 2021*
 
