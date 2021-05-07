@@ -1,7 +1,7 @@
 # portfolio_website
 =====================
 
-A website on Sir Tim Berner's Lee
+My Portfolio Website
 
 [Verision 1](https://sdowney1999.github.io/portfolio_site/index.html)
 
